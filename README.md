@@ -4,7 +4,7 @@
 # 專案介紹 / System Introduction
 1. 這個專案是韓國影視管理系統，專為台灣人打造，並實現多影音平台整合。
 2. 本專案的前端使用Vue.js，後端使用Spring Boot + MySQL資料庫。
-3. 此專案解決台灣韓劇和韓影迷需要反覆在網路上搜尋韓劇、韓影、韓國演員，以及在台灣有播放平台之困擾。
+3. 此專案解決台灣韓劇和韓影迷需要反覆在網路上搜尋「韓劇、韓影、韓國演員，以及在台灣有播放的平台」之困擾。
 4. 本專案中，使用者可以透過新增演員，直接一鍵透過TMDB API爬取該演員的作品之資料，包含有播出該作品的台灣平台等實用資訊。
 5. 使用者也可以前往韓劇或韓影直接新增出演演員的資訊。
 6. 使用者也可以新增單獨的韓劇和韓影，或更新及刪除資料。
@@ -71,4 +71,5 @@ For a detailed list of resources used or referenced in this project, please see 
 © 2025 Nicole Q. All rights reserved.
 
 本專案程式碼與設計為作者 Nicole Q. 原創，僅供學習與展示用途，未經允許不得用於商業用途。
-作者的GitHub專頁為 https://github.com/NicoleQ920924，有問題歡迎分享。
+作者的GitHub專頁為 https://github.com/NicoleQ920924
+有問題歡迎分享。
